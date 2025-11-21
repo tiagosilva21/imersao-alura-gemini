@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Base de Conhecimento</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="animation.css">
+</head>
+<body>
+    <header>
+        <h1>Base de Conhecimento</h1>
+        <div>
+            <input type="text" id="linguagem" placeholder="Digite uma linguagem de programação">
+            <button id="botao-busca">Buscar</button>
+        </div>
+    </header>
+    <main>
+        <section class="principal">
+            <h1 class="titulo-principal">Imersão DEV_</h1>
+            <img class="alura" src="image/alura1.png" alt="alura e gemini logos" class="logos" />
+            <h3 class="alura">Seu mergulho em <span>desenvolvimento web</span> com Alura e Google gemini.</h3>
+        </section>
+        <section class="descricao">
+            <p class="alura">As <span>linguagens de programação</span> são o meio pelo qual os seres humanos se comunicam com os computadores para instruí-los a realizar tarefas específicas. Elas servem como um conjunto de regras, símbolos e estruturas que permitem que um <span>programador</span> escreva <span>código-fonte</span>, que é então traduzido ou interpretado para que a máquina possa executá-lo.</p>
+            <p class="alura">Explore nossa base de conhecimento com diversas linguagens de programação e tecnologias. Use a busca acima para encontrar informações específicas.</p>
+        </section>   
+        <section  id="container">
+        </section>
+    </main>
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <img src="image//linkedin.svg" alt="Ícone de estrela azul" width="25" height="25">
+                <a href="https://www.linkedin.com/in/tiagosoaresdev/" target="_blank">Linkedin</a>
+            </li>
+            <li>
+                <img src="image/github.svg" alt="Ícone de estrela azul" width="25" height="25">
+                <a href="https://github.com/tiagosilva21/imersao-alura-gemini" target="_blank">GitHub</a>
+            </li>
+            <li>
+                <img src="image/alura.svg" alt="Ícone de estrela azul" width="25" height="25">
+                <a href="https://cursos.alura.com.br/imersao/imersao-dev-google" target="_blank">Alura</a>
+            </li>
+        </ul>
+    </footer>
+
+    <!-- O Modal -->
+    <div id="myModal" class="modal">
+        <!-- Conteúdo do modal -->
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="container-modal">
+
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
