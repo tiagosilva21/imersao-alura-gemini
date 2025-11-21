@@ -249,10 +249,15 @@ section {
   transform: rotateY(180deg);
 } */
 
-.flip-card-front{
-    
+.flip-card-front {
+    color: red;
     justify-content: center;
     align-items: center;
+}
+.flip-card-front h2, .flip-card-back h2 {
+    margin: 10px 0;
+    font-size: 1.5rem;
+    color: var(--quaternary-color);
 }
 .flip-card-inner img {
   width: 50%;
