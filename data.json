@@ -15,7 +15,7 @@
     },
     {
         "nome": "Java",
-        "descricao": "Java é uma linguagem de programação orientada a objetos, popular para o desenvolvimento de aplicações empresariais e aplicativos Android.",
+        "descricao": "Java é uma linguagem de programação orientada a objetos, para o desenvolvimento de aplicações empresariais e app Android.",
         "ano": 1995,
         "link": "https://www.oracle.com/java/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -365,3 +365,4 @@
     }
 
 ]
+
