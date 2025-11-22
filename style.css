@@ -155,7 +155,7 @@ article a:hover {
 section {
     display: flex;
     flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
-    padding: 2rem; /* Margem inferior */
+    margin: 10px;/* Margem inferior */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -302,6 +302,10 @@ section {
     article:hover { /* Estilos para o article em telas menores */
         transform: none; /* Remove o efeito de escala ao passar o mouse */
     }
+    .principal img{
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 @media (max-width: 480px) {
@@ -331,7 +335,26 @@ section {
     .footer { /* Estilos para o rodapé em telas muito pequenas */
         display: none; /* Oculta o rodapé */
     }
-
+    .principal img{
+        display: none;
+    }
+    .principal{
+        display: flex; /* Habilita flexbox */
+        align-items: center; /* Alinha itens ao centro */
+        justify-content: center; /* Centraliza itens */
+        padding: 0; /* Organiza em coluna */
+        gap: 0.3rem;
+    }
+    .descricao p{
+        max-width: 100%;
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
+    .descricao .resp{
+        display: none;
+    }
+    
     button { /* Estilos para o botão em telas muito pequenas */
         margin-top: 1rem; /* Adiciona margem no topo */
     }
