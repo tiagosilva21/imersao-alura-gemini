@@ -14,7 +14,7 @@ O que começou como uma prática de HTML/CSS evoluiu para uma aplicação dinâm
 ## Como acessar
 Você pode visualizar o projeto rodando online através do link abaixo:
 
-[Clique Aqui para acessar a pagina em funcionamento] (linkedin.com/in/tiago-soares-a19a7328a)
+[![Clique Aqui para acessar a pagina em funcionamento]] (linkedin.com/in/tiago-soares-a19a7328a)
 
 
 ## O projeto foi desenvolvido utilizando as seguintes tecnologias e conceitos:
