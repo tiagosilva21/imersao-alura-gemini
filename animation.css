@@ -56,8 +56,8 @@
     z-index: 1000; /* Fica por cima de tudo */
     left: 0;
     top: 0;
-    width: 100%; /* Largura total */
-    height: 100%; /* Altura total */
+    max-width: 100%; /* Largura total */
+    height: auto; /* Altura total */
     overflow: auto; /* Habilita scroll se necessário */
     background-color: rgb(0,0,0); /* Cor de fallback */
     background-color: rgba(0,0,0,0.4); /* Preto com opacidade */
@@ -67,7 +67,7 @@
     background-color: #1d1c1c;
     margin: 15% auto; /* 15% do topo e centralizado */
     padding: 20px;
-    width: 90vh; /* Pode ser mais ou menos, dependendo do tamanho da tela */
+    width: 90%; /* Pode ser mais ou menos, dependendo do tamanho da tela */
     border-radius: 10px;
     text-align: center;
 }
