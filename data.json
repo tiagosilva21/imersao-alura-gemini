@@ -8,77 +8,77 @@
     },
     {
         "nome": "Python",
-        "descricao": "Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe clara e legibilidade, usada em desenvolvimento web, ciência de dados e automação.",
+        "descricao": "Python é uma linguagem de programação de alto nível, usada em desenvolvimento web, ciência de dados e automação.",
         "ano": 1991,
         "link": "https://docs.python.org/pt-br/3/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     },
     {
         "nome": "Java",
-        "descricao": "Java é uma linguagem de programação orientada a objetos, popular para o desenvolvimento de aplicações empresariais, aplicativos Android e sistemas de grande escala. [18, 15]",
+        "descricao": "Java é uma linguagem de programação orientada a objetos, popular para o desenvolvimento de aplicações empresariais e aplicativos Android.",
         "ano": 1995,
         "link": "https://www.oracle.com/java/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
     },
     {
         "nome": "C++",
-        "descricao": "C++ é uma linguagem de programação de propósito geral, sendo uma extensão da linguagem C, amplamente utilizada em software de sistema, jogos e aplicações de alto desempenho. [30, 51]",
+        "descricao": "C++ é uma linguagem de programação de propósito geral, sendo uma extensão da linguagem C.",
         "ano": 1983,
         "link": "https://isocpp.org/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
     },
     {
         "nome": "C#",
-        "descricao": "C# (pronuncia-se 'C sharp') é uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft, principalmente para o framework .NET.",
+        "descricao": "C# (pronuncia-se 'C sharp') é uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft.",
         "ano": 2000,
         "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
     },
     {
         "nome": "PHP",
-        "descricao": "PHP é uma linguagem de script do lado do servidor, de código aberto, amplamente utilizada para o desenvolvimento web, especialmente para criar sites dinâmicos. [10]",
+        "descricao": "PHP é uma linguagem de script do lado do servidor, de código aberto, amplamente utilizada para o desenvolvimento web.",
         "ano": 1994,
         "link": "https://www.php.net/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
     },
     {
         "nome": "Swift",
-        "descricao": "Swift é uma linguagem de programação poderosa e intuitiva criada pela Apple para desenvolver aplicativos para iOS, Mac, Apple TV e Apple Watch. [17, 38]",
+        "descricao": "Swift é uma linguagem de programação poderosa e intuitiva criada pela Apple.",
         "ano": 2014,
         "link": "https://swift.org/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
     },
     {
         "nome": "Kotlin",
-        "descricao": "Kotlin é uma linguagem de programação moderna e estaticamente tipada, desenvolvida pela JetBrains, que é totalmente interoperável com Java e oficialmente suportada para o desenvolvimento Android. [11, 22]",
+        "descricao": "Kotlin é uma linguagem de programação moderna e estaticamente tipada, desenvolvida pela JetBrains.",
         "ano": 2011,
         "link": "https://kotlinlang.org/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
     },
     {
         "nome": "Go",
-        "descricao": "Go (ou Golang) é uma linguagem de programação de código aberto desenvolvida pelo Google, projetada para ser simples, eficiente e confiável, especialmente para programação concorrente. [1, 26]",
+        "descricao": "Go (ou Golang) é uma linguagem de programação de código aberto desenvolvida pelo Google, projetada para ser simples, eficiente e confiável.",
         "ano": 2009,
         "link": "https://go.dev/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
     },
     {
         "nome": "Rust",
-        "descricao": "Rust é uma linguagem de programação de sistemas que se concentra em segurança, velocidade e concorrência, permitindo criar software confiável e eficiente. [14, 16]",
+        "descricao": "Rust é uma linguagem de programação de sistemas que se concentra em segurança, velocidade e concorrência.",
         "ano": 2010,
         "link": "https://www.rust-lang.org/",
         "logo":"image/rust.svg"
     },
     {
         "nome": "TypeScript",
-        "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem, desenvolvido pela Microsoft para criar aplicações JavaScript em larga escala. [31]",
+        "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem.",
         "ano": 2012,
         "link": "https://www.typescriptlang.org/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
     },
     {
         "nome": "Ruby",
-        "descricao": "Ruby é uma linguagem de programação dinâmica, de código aberto, com foco na simplicidade e produtividade, popularizada pelo framework de desenvolvimento web Ruby on Rails. [13, 3]",
+        "descricao": "Ruby é uma linguagem de programação dinâmica, de código aberto.",
         "ano": 1995,
         "link": "https://www.ruby-lang.org/",
         "logo":"https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
@@ -120,7 +120,7 @@
     },
     {
         "nome": "Kubernetes",
-        "descricao": "Sistema de orquestração de containers open source, desenvolvido pelo Google, usado para automatizar a implantação, escalonamento e gerenciamento de aplicações.",
+        "descricao": "Sistema de orquestração de containers open source, desenvolvido pelo Google.",
         "ano": 2014,
         "link": "https://kubernetes.io/",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
@@ -134,7 +134,7 @@
     },
     {
         "nome": "Vue.js",
-        "descricao": "Framework JavaScript progressivo para a construção de interfaces de usuário e Single Page Applications (SPAs), conhecido por sua facilidade de aprendizado.",
+        "descricao": "Framework JavaScript progressivo para a construção de interfaces de usuário e Single Page Applications (SPAs).",
         "ano": 2014,
         "link": "https://vuejs.org/",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
@@ -155,7 +155,7 @@
     },
     {
         "nome": "GraphQL",
-        "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook (Meta), oferecendo uma alternativa ao REST, permitindo que o cliente solicite exatamente os dados necessários.",
+        "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook (Meta), oferecendo uma alternativa ao REST.",
         "ano": 2015,
         "link": "https://graphql.org/",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"
@@ -169,14 +169,14 @@
     },
     {
         "nome": "Redis",
-        "descricao": "Banco de dados NoSQL in-memory, usado como cache, message broker e armazenamento de sessões, suportando diversas estruturas de dados.",
+        "descricao": "Banco de dados NoSQL in-memory, usado como cache, message broker e armazenamento de sessões.",
         "ano": 2009,
         "link": "https://redis.io/",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
     },
     {
         "nome": "Flutter",
-        "descricao": "SDK de desenvolvimento de UI do Google, usado para criar aplicações compiladas nativamente para mobile, web e desktop a partir de um único código-fonte (Dart).",
+        "descricao": "SDK de desenvolvimento de UI do Google, usado para criar aplicações compiladas nativamente para mobile, web e desktop.",
         "ano": 2017,
         "link": "https://flutter.dev/",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
@@ -196,13 +196,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
     },
     {
-        "nome": "Solidity",
-        "descricao": "Linguagem de programação orientada a contratos para escrever Smart Contracts em plataformas blockchain como Ethereum.",
-        "ano": 2014,
-        "link": "https://soliditylang.org/",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg"
-    },
-    {
         "nome": "AWS Lambda",
         "descricao": "Serviço de computação serverless que permite executar código em resposta a eventos sem provisionar ou gerenciar servidores.",
         "ano": 2014,
@@ -211,7 +204,7 @@
     },
     {
         "nome": "Git",
-        "descricao": "Sistema de controle de versão distribuído, criado por Linus Torvalds, essencial para rastrear mudanças no código e facilitar a colaboração em projetos de software.",
+        "descricao": "Sistema de controle de versão distribuído, criado por Linus Torvalds, essencial para rastrear mudanças no código.",
         "ano": 2005,
         "link": "https://git-scm.com/",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
@@ -225,7 +218,7 @@
     },
     {
         "nome": "Spring Boot",
-        "descricao": "Framework que simplifica a criação de aplicações Spring autônomas, prontas para produção e configuráveis com pouca ou nenhuma configuração explícita.",
+        "descricao": "Framework que simplifica a criação de aplicações Spring autônomas, prontas para produção e configuráveis.",
         "ano": 2014,
         "link": "https://spring.io/projects/spring-boot",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
@@ -253,7 +246,7 @@
     },
     {
         "nome": "Apache Cassandra",
-        "descricao": "Banco de dados NoSQL distribuído e altamente escalável, projetado para lidar com grandes quantidades de dados em clusters de servidores commodity.",
+        "descricao": "Banco de dados NoSQL distribuído e altamente escalável.",
         "ano": 2008,
         "link": "https://cassandra.apache.org/",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg"
@@ -281,7 +274,7 @@
     },
     {
         "nome": "Jenkins",
-        "descricao": "Servidor de automação de código aberto que ajuda a automatizar partes do processo de desenvolvimento de software, como construção, teste e implantação.",
+        "descricao": "Servidor de automação de código aberto que ajuda a automatizar partes do processo de desenvolvimento de software.",
         "ano": 2011,
         "link": "https://www.jenkins.io/",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
@@ -294,13 +287,6 @@
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
     },
     {
-        "nome": "Express.js",
-        "descricao": "Framework web minimalista e flexível para aplicativos JavaScript em ambiente runtime, popular para a construção de APIs RESTful.",
-        "ano": 2010,
-        "link": "https://expressjs.com/",
-        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-    },
-    {
         "nome": "Lit",
         "descricao": "Biblioteca simples e rápida para construir Web Components leves e reutilizáveis, baseada em padrões web.",
         "ano": 2021,
@@ -309,7 +295,7 @@
     },
     {
         "nome": "Astro",
-        "descricao": "Framework moderno de construção de sites focado em conteúdo e desempenho, entregando interfaces de usuário mais rápidas com arquitetura de 'ilha'.",
+        "descricao": "Framework moderno de construção de sites focado em conteúdo e desempenho.",
         "ano": 2021,
         "link": "https://astro.build/",
         "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg"
@@ -377,4 +363,5 @@
         "link": "https://webassembly.org/",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg"
     }
+
 ]
